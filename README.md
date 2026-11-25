@@ -59,11 +59,6 @@ Formado em **Análise e Desenvolvimento de Sistemas pela UFRN**.
 | Projeto | O que é | Stack |
 |---|---|---|
 | [**legenday**](https://github.com/Araujo96/legenday) | Aprenda inglês assistindo filmes: clique numa palavra da legenda e veja tradução, pronúncia e a frase traduzida | Python · Qt · mpv |
-| [**discord-audio-bot**](https://github.com/Araujo96/discord-audio-bot) | Bot de Discord para reprodução de áudio | Python |
-| [**procuracao_flask**](https://github.com/Araujo96/procuracao_flask) | Gera procurações em PDF a partir de um formulário web | Python · Flask · ReportLab |
-| [**Api_rest_Django**](https://github.com/Araujo96/Api_rest_Django) | API REST de cadastro de livros | Python · Django |
-| [**Calculadora_Custo**](https://github.com/Araujo96/Calculadora_Custo) | Calcula o preço de encomendas (material, horas, margem e custo fixo) | HTML · CSS · JS |
-| [**araujo96.github.io**](https://github.com/Araujo96/araujo96.github.io) | Meu portfólio pessoal | HTML · CSS · JS |
 
 > Os sistemas da EJB são privados. Telas e detalhes estão no [portfólio](https://araujo96.github.io/).
 
